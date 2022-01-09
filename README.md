@@ -2,7 +2,6 @@
 This is my MS final year project, "Horse Racing Prediction using Machine Learning and Deep Learning Approach"
 # Configuration Manual
 ## Mangesh Shivaji Ipper
-## x20122136
 ### 1 Introduction
 The configuration manual provide the information of software, tools used to implement
 this project. It consist of the software and hardware requirements information along with
